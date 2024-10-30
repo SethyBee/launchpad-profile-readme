@@ -9,6 +9,7 @@
 
 _Say hello to your community._
 
+Hello, my name is Sethy. This is my new beginning on how to code. 
 
 <!-- 
   <<< Author notes: Start of the course >>> 
